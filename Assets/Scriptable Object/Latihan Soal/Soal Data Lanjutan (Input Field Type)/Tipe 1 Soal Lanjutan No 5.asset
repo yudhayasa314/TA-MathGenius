@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 1 Soal Lanjutan No 5
+  m_EditorClassIdentifier: 
+  soalCerita: Pada hari pertama, seorang petani memanen 5 jeruk. Pada hari kedua,
+    petani tersebut memanen 3 kali lebih banyak jeruk daripada hari pertama. Berapa
+    total jeruk yang dipanen dalam dua hari?
+  clipSoal: {fileID: 8300000, guid: a175abba58713134faa5ab04ca401b36, type: 3}
+  pembahasanPict: {fileID: 21300000, guid: 540dfaca9f2fb8548a16ca25657a94ee, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: 73a6ff0e7a1350c4b855e14edfd8e449, type: 3}
+  clue:
+  - clue: 5
+    isActive: 1
+  - clue: 3
+    isActive: 1
+  - clue: 
+    isActive: 0
+  - clue: 
+    isActive: 1
+  firstMathOperation: x
+  secondMathOperation: 
+  answer: 15

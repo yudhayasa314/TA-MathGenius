@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 3 Soal Lanjutan No 5
+  m_EditorClassIdentifier: 
+  soalCerita: Seorang peternak memiliki 2 kandang. Di setiap kandang terdapat 6 ekor
+    ayam, dan setiap ayam bertelur 5 butir telur setiap hari. Berapa banyak telur
+    yang dihasilkan oleh ayam-ayam tersebut dalam sehari?
+  clipSoal: {fileID: 8300000, guid: 3dca63f2fee2cb14da8dc2a35aa4f820, type: 3}
+  pembahasanPict: {fileID: 21300000, guid: 8f4d80e6358fd3a4681932f7483df5b4, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: cd0c971958eb62a4483381d07250ba37, type: 3}
+  clue:
+  - clue: 2
+    isActive: 1
+  - clue: 6
+    isActive: 1
+  - clue: 5
+    isActive: 1
+  - clue: 
+    isActive: 1
+  firstMathOperation: x
+  secondMathOperation: x
+  answer: 60

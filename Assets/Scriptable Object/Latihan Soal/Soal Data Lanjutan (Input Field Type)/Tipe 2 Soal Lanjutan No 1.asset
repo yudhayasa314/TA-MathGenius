@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 2 Soal Lanjutan No 1
+  m_EditorClassIdentifier: 
+  soalCerita: Pada musim panen dihasilkan dua keranjang buah apel. Keranjang pertama
+    berisi 10 buah apel. Keranjang kedua berisi ..... buah apel. Jika total dua keranjang
+    adalah 30 apel, maka berapa isi keranjang pertama ?
+  clipSoal: {fileID: 8300000, guid: 5cc26f1191cb6534e97225687f110753, type: 3}
+  pembahasanPict: {fileID: 21300000, guid: 57154ffa8d5b36647be839337226f76f, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: d56338aa0634eb546a69346f4a1697c7, type: 3}
+  clue:
+  - clue: 10
+    isActive: 1
+  - clue: 
+    isActive: 1
+  - clue: 
+    isActive: 0
+  - clue: 30
+    isActive: 1
+  firstMathOperation: +
+  secondMathOperation: 
+  answer: 20

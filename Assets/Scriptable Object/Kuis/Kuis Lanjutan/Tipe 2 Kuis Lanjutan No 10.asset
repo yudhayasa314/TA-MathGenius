@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 2 Kuis Lanjutan No 10
+  m_EditorClassIdentifier: 
+  soalCerita: Farel membeli 36 kue untuk dibagikan kepada 6 temannya dengan jumlah
+    yang sama. Berapa banyak kue yang akan diterima oleh setiap teman Farel ?
+  clipSoal: {fileID: 8300000, guid: 4f7e212b9e6077447ae6f18253634d62, type: 3}
+  pembahasanPict: {fileID: 0}
+  clipPembahasan: {fileID: 0}
+  clue:
+  - clue: 36
+    isActive: 1
+  - clue: 6
+    isActive: 1
+  - clue: 
+    isActive: 0
+  - clue: 
+    isActive: 1
+  firstMathOperation: ':'
+  secondMathOperation: 
+  answer: 6

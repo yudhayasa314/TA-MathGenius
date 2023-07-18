@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 2 Soal Lanjutan No 5
+  m_EditorClassIdentifier: 
+  soalCerita: Seorang anak memiliki 5 kotak krayon. Setiap kotak berisi 7 krayon.
+    Berapa total krayon yang dimiliki anak tersebut?
+  clipSoal: {fileID: 8300000, guid: 7bc154076c6cdc74c95a0227b688c25e, type: 3}
+  pembahasanPict: {fileID: 21300000, guid: eda1014071652324781dbbdb7d343884, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: ea357f86f48f3b74cbefa89679bfb389, type: 3}
+  clue:
+  - clue: 5
+    isActive: 1
+  - clue: 7
+    isActive: 1
+  - clue: 
+    isActive: 0
+  - clue: 
+    isActive: 1
+  firstMathOperation: x
+  secondMathOperation: 
+  answer: 35

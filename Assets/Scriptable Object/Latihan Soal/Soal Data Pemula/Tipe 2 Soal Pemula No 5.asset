@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b976efdbec6a6ef448ddb1006283ae0a, type: 3}
+  m_Name: Tipe 2 Soal Pemula No 5
+  m_EditorClassIdentifier: 
+  soalText: 5 x 2 =
+  pembahasanPict: {fileID: 21300000, guid: 7bd50d2ca8dddb1469731f308a697172, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: 0edc89020205568408aeffe0d7903e47, type: 3}
+  pilihanJawaban:
+  - isRightAnswer: 0
+    answerNumber: 9
+  - isRightAnswer: 1
+    answerNumber: 10
+  - isRightAnswer: 0
+    answerNumber: 23
+  - isRightAnswer: 0
+    answerNumber: 17

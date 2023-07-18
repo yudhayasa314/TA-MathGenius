@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 1 Soal Lanjutan No 1
+  m_EditorClassIdentifier: 
+  soalCerita: Pada hari minggu, Andi memiliki 50 kelereng. Pada hari senin, Andi
+    memberikan ..... kepada Anton. Jika sisa kelereng Andi adalah 30 kelereng, maka
+    berapa kelereng yang Andi berikan kepada Anton ?
+  clipSoal: {fileID: 8300000, guid: e6bbab46507ce1e4fbd55381707e0ce3, type: 3}
+  pembahasanPict: {fileID: 21300000, guid: 57179b42b97a66546b626a442acf07d8, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: d625d66c092498d4da49ab2add707cdc, type: 3}
+  clue:
+  - clue: 50
+    isActive: 1
+  - clue: 
+    isActive: 1
+  - clue: 
+    isActive: 0
+  - clue: 30
+    isActive: 1
+  firstMathOperation: '-'
+  secondMathOperation: 
+  answer: 20

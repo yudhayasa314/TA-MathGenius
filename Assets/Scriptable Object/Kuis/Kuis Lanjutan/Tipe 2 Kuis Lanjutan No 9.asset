@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 2 Kuis Lanjutan No 9
+  m_EditorClassIdentifier: 
+  soalCerita: Ayah membeli 30 buah apel untuk anaknya. Ayah memberikan 17 buah apel
+    untuk Siska dan 10 Apel untuk Anton. Berapa buah apel yang masih dimiliki oleh
+    ayah sekarang?
+  clipSoal: {fileID: 8300000, guid: 6c2408083f159804d9cb7f9c1455a74b, type: 3}
+  pembahasanPict: {fileID: 0}
+  clipPembahasan: {fileID: 0}
+  clue:
+  - clue: 30
+    isActive: 1
+  - clue: 17
+    isActive: 1
+  - clue: 10
+    isActive: 1
+  - clue: 
+    isActive: 1
+  firstMathOperation: '-'
+  secondMathOperation: '-'
+  answer: 3

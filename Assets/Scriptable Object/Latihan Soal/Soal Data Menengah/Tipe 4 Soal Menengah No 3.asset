@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b976efdbec6a6ef448ddb1006283ae0a, type: 3}
+  m_Name: Tipe 4 Soal Menengah No 3
+  m_EditorClassIdentifier: 
+  soalText: 10 - 1 - 2 =
+  pembahasanPict: {fileID: 21300000, guid: 828f9bc2cde60d34ba947f62b4d44b42, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: c624e942c06372e43af11276e6baf24b, type: 3}
+  pilihanJawaban:
+  - isRightAnswer: 0
+    answerNumber: 11
+  - isRightAnswer: 1
+    answerNumber: 7
+  - isRightAnswer: 0
+    answerNumber: 3
+  - isRightAnswer: 0
+    answerNumber: 1

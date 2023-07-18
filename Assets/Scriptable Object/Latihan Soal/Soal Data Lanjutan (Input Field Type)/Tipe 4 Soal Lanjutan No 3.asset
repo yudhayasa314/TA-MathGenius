@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d69ea361df5cbc4a8993d92bbfc9db0, type: 3}
+  m_Name: Tipe 4 Soal Lanjutan No 3
+  m_EditorClassIdentifier: 
+  soalCerita: Di restoran, Budi memesan 6 potong pizza. Kemudian, temannya Dani memberikan
+    Budi 3 potong pizza tambahan. Berapa banyak potong pizza yang dimiliki oleh Budi
+    sekarang?
+  clipSoal: {fileID: 8300000, guid: 3f3ed27a198764d4bb56dbcdfc87ee93, type: 3}
+  pembahasanPict: {fileID: 21300000, guid: b9e41156ee1f88546b6a9457e31775b1, type: 3}
+  clipPembahasan: {fileID: 8300000, guid: 250525f27545e6e4088d7a7395a36d1a, type: 3}
+  clue:
+  - clue: 6
+    isActive: 1
+  - clue: 3
+    isActive: 1
+  - clue: 
+    isActive: 0
+  - clue: 
+    isActive: 1
+  firstMathOperation: +
+  secondMathOperation: 
+  answer: 9

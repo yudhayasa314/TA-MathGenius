@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Ayo Belajar.unity
+    guid: 92d3f6ca46da07a4a812ee0823b52309
+  - enabled: 1
+    path: Assets/Scenes/Game Latihan Soal Lanjutan.unity
+    guid: be5069896069eac4fb620b013f210bef
+  - enabled: 1
+    path: Assets/Scenes/Game Latihan Soal Menengah.unity
+    guid: 0363e75205ef3214abcd412b784c920d
+  - enabled: 1
+    path: Assets/Scenes/Game Latihan Soal Pemula.unity
+    guid: f42822204281da64fb47dd80c66e9366
+  - enabled: 1
+    path: Assets/Scenes/Kuis.unity
+    guid: 8f20c6ef9f7c1c74fa135ba631577b4c
+  - enabled: 1
+    path: Assets/Scenes/Latihan Soal.unity
+    guid: b86c69c28316fb1499486ffbb4e790b4
+  - enabled: 1
+    path: Assets/Scenes/Progression.unity
+    guid: bcfd67c7976f240438c61568d3bd0c82
+  - enabled: 1
+    path: Assets/Scenes/Voice Recorder.unity
+    guid: 63e579f5e4bc42e479020a27c5485b98
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: fc861a5e9a85a1d499538b996f0d94d9, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 332396654f6a1ca4a8fcfd25032111f3, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: a5c904b8580e1084e8bbfd05e376e241, type: 2}
